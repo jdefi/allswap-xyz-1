@@ -18,6 +18,12 @@ const Nav: React.FC = () => {
         Staking
       </StyledLink>
       <StyledAbsoluteLink
+        href="https://nft.allswap.xyz"
+        target="_blank"
+      >
+        NFT
+      </StyledAbsoluteLink>
+      <StyledAbsoluteLink
         href="https://docs.allswap.xyz"
         target="_blank"
       >
