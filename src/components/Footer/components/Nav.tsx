@@ -22,7 +22,7 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="https://t.me/allswapdefi">
         Telegram
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/AllSwaps">
+      <StyledLink target="_blank" href="https://twitter.com/All_Swaps">
         Twitter
       </StyledLink>
       <StyledLink target="_blank" href="https://github.com/Allswap">
